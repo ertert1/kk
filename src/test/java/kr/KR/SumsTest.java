@@ -38,7 +38,7 @@ public class SumsTest {
 			/**
 			   * итоговая проверка, tests и result1 сравниваниются на равенство.
 			   */
-	    assertEquals((float)8.8, Calculation.sums(k1, r1));
+	    assertEquals((float)1.8, Calculation.sums(k1, r1));
 	   /**
 		* Окончание теста расчёта номинала в электрической цепи для жилых помещений.
 		*/
