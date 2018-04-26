@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/rgr5/KRST.svg?branch=master)](https://travis-ci.org/rgr5/KRST)
+[![Build Status](https://travis-ci.org/ertert1/kk.svg?branch=master)](https://travis-ci.org/ertert1/kk)
